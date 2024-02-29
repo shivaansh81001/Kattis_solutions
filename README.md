@@ -1,5 +1,5 @@
 # Kattis_solutions
-#Solutions
+<h1>Solutions</h1>
 <table>
   <tr>
     <td><b>PROBLEMS</b></td>
