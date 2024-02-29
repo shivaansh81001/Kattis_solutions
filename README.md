@@ -1,2 +1,8 @@
 # Kattis_solutions
-Answers to few Kattis problems I attempted
+#Solutions
+<table>
+  <tr>
+    <td><b>PROBLEMS</b></td>
+    <td><b>SOLUTIONS</b></td>
+  </tr>
+</table>
