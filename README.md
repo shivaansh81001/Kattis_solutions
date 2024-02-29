@@ -6,6 +6,6 @@
   </tr>
   <tr>
     <td>teque</td>
-    <td>[test](./kattis_solutions/teque.py)</td>
+    <td>[test](kattis_solutions/teque.py)</td>
   </tr>
 </table>
